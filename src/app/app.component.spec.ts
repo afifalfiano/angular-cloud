@@ -20,9 +20,9 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'reactiveFormAngular'`, () => {
+  it(`should have as title 'reactiveFormAngularv2'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('reactiveFormAngular');
+    expect(app.title).toEqual('reactiveFormAngularv2');
   });
 });

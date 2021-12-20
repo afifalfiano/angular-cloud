@@ -6,7 +6,7 @@ import {FormControl, FormGroup, Validators} from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit{
-  title = 'reactiveFormAngular';
+  title = 'reactiveFormAngularv2';
   myForm!: FormGroup;
   nama: any;
   email : any;
